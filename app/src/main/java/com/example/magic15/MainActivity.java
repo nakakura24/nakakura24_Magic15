@@ -12,6 +12,8 @@ import android.widget.SeekBar;
  *
  * @author Cameron Nakakura
  * @version 9/28/2022
+ *
+ * Enhancements: Adjustable size (restart game after setting desired size (3 to 9) using seek bar)
  */
 public class MainActivity extends AppCompatActivity {
 
